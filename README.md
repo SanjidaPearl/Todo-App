@@ -2,7 +2,8 @@
 
 CRUD operations (create, read, update, and delete) are applicable in this todolist project.
 
-Tools - React.js, HTML,CSS, JavaScript, Firebase,Vercel
+Tools - React.js, HTML,CSS, JavaScript, Firebase,Vercel.
+
 The project Vercel link https://todo-app-mu-drab.vercel.app/ 
 
 # Getting Started with Create React App
